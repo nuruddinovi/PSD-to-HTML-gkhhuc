@@ -1,0 +1,141 @@
+a {
+	color: #00aced;
+	text-decoration: none;
+}
+body {
+	background: #94aeb066;
+}
+.container {
+	width: 870px;
+	margin: 0 auto;
+}  
+.header_area {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.header_area h1 {
+	color: #027E1D;
+	text-align: center;
+	font-size: 41px;
+}
+.header_area img {
+	padding-left: 370;
+	width: 130;
+}
+.intro_area {
+	
+}
+.intro_image {
+	padding-bottom: 20px;
+}
+.intro_image img{
+	width: 870;
+}
+.intro_text {
+	
+}
+.intro_text h1 {
+	color: #27903d;
+}
+.intro_text   p{
+	
+}
+.content_area {
+	
+}
+.administration_area {
+	float: left;
+	width: 500;
+	padding-right: 10px;
+}
+.administration {
+	float: left;
+	display: block;
+	background: #e8e8e8;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+.administration img {
+	float: left;
+	width: 300;
+	border: 1px solid #000;
+	margin: 10px;
+}
+.administration p{
+	
+}
+.administration1 {
+	float: left;
+	display: block;
+	background: #e8e8e8;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+.administration1 h1{
+	color: #27903d;
+	font-size: 25;
+	padding: 10px;
+}
+.administration1 ol{
+	
+}
+.administration1 li{
+	
+}
+.administration1 p {
+	
+}
+.administration1 p1 {
+	font-size: 10px;
+}
+.service_area {
+	float: right;
+	width: 350;
+	padding-left: 10px;
+}
+.service {
+	float: left;
+	display: block;
+	background: #e8e8e8;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+.service h1 {
+	color: #27903d;
+	font-size: 21;
+	padding: 10px;
+}
+.service ul {
+	padding-right: 10px;
+}
+.footer_area {
+	float: left;
+	width: 848;
+	background: #e8e8e8;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.copyright {
+	float: left;
+	width: 50%;
+}
+.copyright p{
+	text-align: left;
+	font-size: 15px;
+}
+.design {
+	float: right;
+	width: 50%;
+}
+.design p {
+	text-align: right;
+	font-size: 15px;
+}
